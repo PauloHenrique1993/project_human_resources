@@ -20,6 +20,6 @@ As stacks utilizadas foram:
 - MinIo
 - MySQL
 
-![overview-solucao.png](Projeto%20Recursos%20Humanos%20b0dee6c7153e4f39a9cd68ed8951687e/overview-solucao.png)
+![overview-solucao.png](https://github.com/PauloHenrique1993/projeto_recursos_humanos/blob/main/images/overview-solucao.png?raw=true)
 
 …
